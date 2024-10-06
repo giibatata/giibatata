@@ -1,5 +1,6 @@
-opa, bão? eu sou a gi!
+##opa, bão? 
 
+eu sou a gi!
 
 as vezes faço uns programas e jogos :)
 
